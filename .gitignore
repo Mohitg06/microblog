@@ -41,3 +41,4 @@ microblog.log*
 .idea
 .DS_store
 
+__pycache__
